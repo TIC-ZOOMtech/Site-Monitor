@@ -17,5 +17,7 @@ Se você já sabe exatamente o que deseja, pode forçar um teste ou pesquisa esp
 Insira o nome de domínio ou endereço IP e selecione o método de digitalização. Após a conclusão da varredura, você obtém o resultado da varredura Nmap para o seu alvo.
 Alguns firewalls bloqueiam as varreduras do Nmap. Para obter resultados verdadeiramente positivos, adicione endereços IP nmap.online (91.214.64.186-91.214.64.187) à lista de permissões
 
+
+
 ### [Invertexto](https://www.invertexto.com/converter-imagem-em-texto)
 ##### Converter imagem em texto, muito util para coletar texto de PDF e prints
